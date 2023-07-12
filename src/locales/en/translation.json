@@ -1,0 +1,146 @@
+{
+    "loc":"Location:",
+    "location": "Second exit of 28 May subway, Azadlig Pr-86A, (next to the 22nd police station, opposite the Pantomime theater)",
+    "phone":"Phone Number:",
+    "menu":{
+        "1":"About Us",
+        "2":"Courses",
+        "3":"Active Learning Method",
+        "4":"Contact"
+
+
+    },
+    "about":{
+        "title1":"About Us",
+        "title2":"Innovative Way to learn",
+        "desc":"The Language Training Center “London School of Azerbaijan”, is the only representative of the communicative and unique “Active Learning Method” in our country. English is learnt reflectively by hearing and speaking with the help of this communicative method which is based on NLP. As a consequence, the student possesses the ability thinking in English as well as full comprehension and fluent speaking skills. "
+    },
+    "whyTitle":"What we stand out?",
+    "why":{
+        "1":{
+                "title":"1.SPEAK FOR 80% OF CLASS TIME",
+                "desc":"80% of class time is devoted to speaking which facilitates practice of language and enables students to freely express themselves and understand the language better. After explaining new words, the teacher provides the students with the opportunity to use these vocabulary in the sentence. Students will be able to continuously utilize English in the classroom and increase both their active and passive vocabulary."
+            },
+        "2":{
+                "title":"2.NO HOMEWORK",
+                "desc":"We do not give any homework. This is very convenient for those who limited of free time especially for business people. Revision of last 5 lessons is replacing homework. Absence of homework has no negative influence on effectiveness of the method, on the contrary it leads to more efficient utilization of time in class."
+            },
+        "3":{
+                "title":"3.NO MEMORIZATION OF GRAMMAR",
+                "desc":"We teach students to speak fluently in English without thinking of grammar. Unlike other classic English teaching methods “ALM” enables students to make grammatically correct sentences without wasting time on focusing of grammar."
+            },
+        "4":{
+                "title":"4.IMMEDIATE RESULT",
+                "desc":"Result is evident as soon as students start studying. They will not have to wait 4-6 months in order to be able to start making sentences and express themselves. By means of “ALM” method they get the result 4 times faster."
+            }
+        ,"5":{
+                "title":"5.FREE COURSEBOOKS",
+                "desc":"“ALM” coursebooks are not on sale and copyright belongs to “London School”. They are free of charge for our students."
+            }
+        ,"6":{
+                "title":"6.PROFESSIONAL TEACHERS",
+                "desc":"Teachers of London School are “Active Learning Method” professionals. They are selected professionally and eligible to start teaching process after finishing the pedagogical and methodological training phase and passing the internship programs in our center"
+            }
+        ,"7":{
+                "title":"7.SUITABLE SCHEDULE FOR EVERYONE",
+                "desc":"Number of classes a week and duration of a class can be determined by the client. Classes can be conducted at client’s office as well."
+                
+            }
+    },
+    "courses":{
+        "1":{
+            "0":"Visual",
+            "1":"At the London School of Azerbaijan, face-to-face 'General English' lessons are conducted using the 'Active Learning Method' created on NLP. This is the easiest and fastest way to learn English. Because with this method, English is like a mother tongue: listening and learning by speaking (reflective). As a result, a student who starts from scratch reaches 'pre-intermediate' in just 2-3 months, 'intermediate' in 4-5 months, and 'advanced' in 10-11 months.",
+            "2":"In 'Active Learning Method' teaching:",
+            "3":" ✔Homework is not given",
+            "4":" ✔Grammar is taught in a simple form",
+            "5":" ✔4 times faster result guaranteed",
+            "6": "✔Textbooks are free",
+            "7": "✔Progress is felt in only 3 lessons",
+            "8": "✔Lessons 3 times a week",
+            "9":" ✔In order for the student to be sure of the quality of the lessons, the first 3 lessons are held free of charge. "},
+        "2":{
+            "0":"Online",
+            "1":"The online 'General English' classes at the London School of Azerbaijan are held using the 'Active Learning Method' created on NLP. This is the easiest and fastest way to learn English. Because with this method, English is like a mother tongue: listening and learning by speaking (reflective). As a result, a student who starts from scratch reaches 'pre-intermediate' in just 2-3 months, 'intermediate' in 4-5 months, and 'advanced' in 10-11 months.",
+            "2":"In 'Active Learning Method' teaching:",
+            "3":" ✔Homework is not given",
+            "4":" ✔Grammar is taught in a simple form",
+            "5":" ✔4 times faster result guaranteed",
+            "6": "✔Progress is felt in only 3 lessons",
+            "7":" ✔In order for the student to be sure of the quality of the lessons, the first 3 lessons are held free of charge. "},
+        "3":{
+            "0":"Technical English",
+            "1":"The Technical English Language Program is designed for many different specialties and professions. It is especially useful for professionals who work with technical equipment and tools.",
+            "2":"The following personnel can benefit from this program:",
+            "3":"• Technical staff",
+            "4": "• Engineering Staff",
+            "5": "• Mechanical staff",
+            "6": "• Machinist staff",
+            "7": "• Operator staff, etc.",
+            "8":"Your employees who have acquired the program:",
+            "9":"To build sentences freely by expanding the vocabulary of technical terms",
+            "10": "Explaining your ideas about technical issues easily",
+            "11": "Conduct discussions related to the technical field",
+            "12":"Writing e-mails and technical reports about their work",
+            "13":"They will learn to create effective communication"
+   
+        },
+        "4":{
+            "0":"Business English",
+            "1":"Having Business English gives everyone a competitive advantage in their field. This program will ensure that your employees learn Business English and use it effectively in the work process. The purpose of 'Business English' classes is to acquire communicative knowledge of English in the business sphere",
+            "2":"Your employees who have acquired the program:",
+            "3": "To communicate comfortably with partners and colleagues",
+            "4":"Conducting business correspondence and writing letters",
+            "5":"Presenting in English",
+            "6": "Active participation in meetings and negotiations",
+            "7": "Communicating correctly on the phone",
+            "8":"They will learn to organize travel to foreign countries and communicate during travel"
+        }    
+    },
+    "alm":{
+        "title":"What is Active Learning Method?",
+        "1":{
+            "title":"HOW DOES IT WORK?",
+            "desc":"Having a comprehensive structure, “ALM” English Language teaching program consists of 12 levels. The first level includes 1000 most commonly used English words that are utilized in day to day situations. After finishing 12th level a student masters 5621 words which make his active English vocabulary."
+        },
+        "2":{
+            "title":"SAVE MONEY",
+            "desc":"As “ALM” creates a unique opportunity to learn English just in the quarter of the time, it means that students spend 4 times less, the money they would normally use on their studies. There is absolutely no doubt that this aspect is very attractive for the companies willing to improve English skills of their employees."
+        },
+        "3":{
+            "title":"NEW WORDS ARE NOT FORGOTTEN",
+            "desc":"“ALM” teaching system has been designed to ensure that every new word that has been learned is constantly being used actively throughout the course and at all levels which serves to memorize them all the time."
+        },
+        "4":{
+            "title":"FROM SIMPLE TO COMPLEX",
+            "desc":"Everything in “ALM” is followed by a certain logical pattern in a certain sequence. Which means that a student does not waste time on grammatical structures and vocabulary units which he or she is simply not ready for."
+        },
+        "5":{
+            "title":"APPROPRIATE FOR ALL AGE GROUPS",
+            "desc":"This method is appropriate for all age groups and efficiency is guaranteed for students of absolutely different backgrounds."
+        }
+    },
+    "partners":"OUR PARTNERS",
+    "contact":{
+        "location":"Location",
+        "social":"Social Media",
+        "phone":"Phone Number"
+
+    },
+    "signup":{
+        "h5":"Registration",
+        "h1":"START LEARNING NOW",
+        "p":"English with 'Active Learning Method':",
+        "key1":"Speaking only",
+        "key2":"Without homework",
+        "key3":"Learn 4 times faster!",
+        "sign":"Sign Up Now",
+        "signup":"Sign Up Now"
+    },
+    "form":{
+        "name":"Name Surname",
+        "number":"Phone Number",
+        "birth":"Birth date"
+    }
+
+  }
