@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/londonschoolaz/static/css/main.bee710a8.css",
-    "main.js": "/londonschoolaz/static/js/main.3b52b30d.js",
+    "main.css": "/londonschoolaz/static/css/main.1a332420.css",
+    "main.js": "/londonschoolaz/static/js/main.670fc218.js",
     "static/media/about5.jpg": "/londonschoolaz/static/media/about5.00b713db54e483278518.jpg",
     "static/media/cocacola.png": "/londonschoolaz/static/media/cocacola.1a478ae02e1b4b56d821.png",
     "static/media/about3.jpg": "/londonschoolaz/static/media/about3.e811d8b6217d8e918c11.jpg",
@@ -42,11 +42,11 @@
     "static/media/slick.woff": "/londonschoolaz/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/londonschoolaz/index.html",
     "static/media/getFetch.cjs": "/londonschoolaz/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.bee710a8.css.map": "/londonschoolaz/static/css/main.bee710a8.css.map",
-    "main.3b52b30d.js.map": "/londonschoolaz/static/js/main.3b52b30d.js.map"
+    "main.1a332420.css.map": "/londonschoolaz/static/css/main.1a332420.css.map",
+    "main.670fc218.js.map": "/londonschoolaz/static/js/main.670fc218.js.map"
   },
   "entrypoints": [
-    "static/css/main.bee710a8.css",
-    "static/js/main.3b52b30d.js"
+    "static/css/main.1a332420.css",
+    "static/js/main.670fc218.js"
   ]
 }
